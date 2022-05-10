@@ -59,12 +59,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   void initState() {
-    initApollo();
+    initConfig();
 
     super.initState();
   }
 
-  void initApollo() async {
+  void initConfig() async {
     try {
       await Apollo.getInstance(TerraApp.defaultAppName);
     } on Exception catch (error) {}
