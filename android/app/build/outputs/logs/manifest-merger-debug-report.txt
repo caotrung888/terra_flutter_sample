@@ -1,0 +1,1057 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:terra_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/terra_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:payment_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/payment_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:apollo_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/apollo_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [vn.teko.apollo:terra-apollo:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/30fda862007c557869e08ad9f661b2cb/jetified-terra-apollo-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:2:1-67:12
+MERGED from [vn.teko.android.payment:payment-manager-v2:2.1.0-alpha5] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/fea42a71033bca08db7e9b8705f8188a/jetified-payment-manager-v2-2.1.0-alpha5/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:2:1-16:12
+MERGED from [vn.teko.loyalty:loyalty-tracking:1.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/34c6941a0ea11578b302d8c1a8b6af20/jetified-loyalty-tracking-1.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.tracker:tracker-manager:2.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c4b762885f118d3e43a2dd1faf8477c4/jetified-tracker-manager-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.terra:terra-js-bridge:1.1.2-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9ad09705596b45c464187914a9bc79ff/jetified-terra-js-bridge-1.1.2-alpha1/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.payment:payment-core-v2:2.3.0-alpha.5-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/8f7d885e18b18362b3a894bdb2cd1ea7/jetified-payment-core-v2-2.3.0-alpha.5-SNAPSHOT/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.payment:payment-cart-connector:0.0.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b9a6512af30ed181d19cda6aaf284c1/jetified-payment-cart-connector-0.0.3/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.terra:terra-core-android:1.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/728b6609b21a415aaeca92a4a02991a6/jetified-terra-core-android-1.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:2:1-17:12
+MERGED from [vn.teko.android.core:ui:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/76bc24bd9ff3fe35f04b0dbfb11ab8d5/jetified-ui-1.1.0-alpha1/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.core:framework:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/36e0ab67425f218150f35dbe1a0ac94f/jetified-framework-1.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.core:logging:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b7ffcd82937aa06facc607d8d9b0a29c/jetified-logging-1.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.core:data:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/36285d6ad7d6786463eafd98cda621af/jetified-data-1.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.core:skeleton:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/57a7f2cea0bcc9df6cb189a01d4f7cb1/jetified-skeleton-1.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.core:util-android:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/241f4ddd3fd8c9ae0237c13b542c43ea/jetified-util-android-1.0.0/AndroidManifest.xml:2:1-12:12
+MERGED from [vn.teko.android.tracker:tracker-core:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/12264c731edcb673b1ecc1a4d83bf489/jetified-tracker-core-2.6.0/AndroidManifest.xml:2:1-12:12
+MERGED from [vn.teko.terra:js-bridge-core:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/47a7a78c69f860b2306579152938f7f7/jetified-js-bridge-core-1.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.tracker:tracker-event:2.5.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/11463c27ab2f623b5f3e7a1cd20f6f09/jetified-tracker-event-2.5.0-alpha1/AndroidManifest.xml:2:1-9:12
+MERGED from [vn.teko.android.tracker:tracker-util:2.1.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ff1c02cfeed3907d9b1ae742287d177c/jetified-tracker-util-2.1.4/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/20a61654279bb2d4d6e5545a62122fd6/databinding-adapters-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-ktx:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b69f46687867c9033810459684541808/jetified-databinding-ktx-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/40526d986a5a1fd860f02fd2ff021ab1/databinding-runtime-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:2:1-34:12
+MERGED from [vn.teko.android.core:qr-generator:0.0.1-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/759144de33aec2e65a08f5ce3b2f6163/jetified-qr-generator-0.0.1-alpha1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3b3725cc00ace2b5a9722d2155fceb97/jetified-egloo-0.6.1/AndroidManifest.xml:2:1-11:12
+MERGED from [vn.teko.android.payment:observer-firebase-v2:1.11.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c6c3b87f26624afd68eba3745ac2ac95/jetified-observer-firebase-v2-1.11.0-alpha1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/179c72c7632064bf1dcab6a8582cf4b4/jetified-room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime-ktx:3.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/60c67455645b970cc8a1101215151ac9/jetified-paging-runtime-ktx-3.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime:3.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0317e431ea712e2ec70d5fb6e22d8f2f/paging-runtime-3.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7071737c663eb9e38425166b4678bb4d/navigation-fragment-ktx-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6acade9834e82190306b3dfc7a75bc06/navigation-fragment-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3aeeaa4befb9e227f5c91192664a806b/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/5ae1eaf2f618aca606c458a2f7891987/navigation-ui-ktx-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab6b21459de7bbe34346503a7b2ad6bb/navigation-runtime-ktx-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dddbbbaa0bc3b462b850fb18cbf9177d/navigation-ui-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/81f40219484ba87e7699202302d73844/navigation-runtime-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3565cde6ae2ea58340e77f3512aa95c2/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/23c357fcd5dad5e98a23048ca5feda65/navigation-common-ktx-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/368494a2e8a44944b25203b838c24b7d/navigation-common-2.4.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7e5ffefa3332b92868b42e611bd7c400/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ff129af5e64e68c03099fa9f2ba15810/work-runtime-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/1fccfee8d360f87ccfb2c4b37bdebe85/slidingpanelayout-1.2.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98ed3e48763641fde69353223bdd0c3d/jetified-lifecycle-runtime-ktx-2.4.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/562159463fe85dfc02513377922e1edc/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [vn.teko.loyalty:loyalty-model:2.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3dab2c97ab7b3cee04733011a39f2bf9/jetified-loyalty-model-2.1.0-alpha1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/11784f367f7a7764e15d72eb4ce28559/jetified-viewbinding-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/8a890d3878adbd72264013482df028e3/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.dagger:dagger-android-support:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e77becd350cb256888143fb618dadc9c/jetified-dagger-android-support-2.34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/336ad9586513c84b79218d013962f945/material-1.4.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6af88fb2306cad6182d3af73ac02620/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/74fc56783390f3dbc1511a18f674d4ec/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:17:1-132:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/af30c5e98f71a090484832c1640a1ba2/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/793bfc5c036a1ef4fdaf52f9fc8dabd6/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.mlkit:barcode-scanning:17.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b3f72dc2165ca8e164709b98022cb5a/jetified-barcode-scanning-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/228dfe74985cc69ec5d9fe1c51cfbac1/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f629f685fdb8d403924f0c3e1e76e7f8/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b422cca8b1121af766d14a357a3d99ff/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f596c52a6da0a9888adecd68576fc6ef/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/565739743116e827922e9a9ea327344d/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/369ba8a20c1bf9b09bd11d0925d47f1e/fragment-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/d280707bcfa67447378be5a5b195c93c/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/68b974ed4e60fcf8b9907ae8d420cac8/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/159f8cac255183af77b0b1ce720ad0c0/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/266ea54e60e04b941ef10777fdadab2a/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/23750d2e642805fc27bd0aa75596834d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/4e15ce71f4321a6d1c82718704239b04/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2729cb916a2ec62606f2149842aba85f/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab53ce1fa738e9935a6b32548f651ceb/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0bb92d8a2a55d0291f22f86d1bc72398/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/07fa920881439b46e1537c644300b944/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/53dee3e0a9589e838f0d4a3d85b83014/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bd5764f4c331824c99e9d79fb8747f5a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/828dbafd34712c0e71bcbc89a7683277/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6fee33b019fd543036cb7f55afb9cbd2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9d776cda746dabed879e30c47be1432f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/96ae5604339cfec08d012924c093ea2c/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/534ffbe0bb2e6f615131a9748a22cbba/lifecycle-runtime-2.4.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f4f67a78de15ce9516e92ad8c25a1f7c/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/569fec21e685ebc91747b776aa7601ed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dad7b21701d91de02d3df1a9b11a9045/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bf2b7c7c43ec98c2717c509e4524d0dc/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/abecc9bf5a4a9c5bf0d1b8b1ae7edec4/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e155210c569af8a7aa940ea35732e173/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b29311546ecf9b70de8fb5b83883c53/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7f7bfa1681a7d485f238595580489d47/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/1230dfb7110d82b2b03b4f3f5bcd5dd8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/93eba9e66c33cd1f0071ac049e3ea78d/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6553366540cc3e4e860e4be139c362cb/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a8a922a30e1ef13071307b238d97bc08/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c7b2e20c8394e110ee3b17b883d90dc3/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0746b32752d8ed008d745ae5e4ee6bf8/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/fac9dcc0e154bddb80f622a1699a8b61/jetified-dagger-android-2.34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/49453516ac3063b58b9054b4c7abd4fe/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/d8ce6ec113e0c44b743a789507e371a1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dc54f72fde1c98da2bc7dac1e99b4a42/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7ce69dd97ffa5f8bb59e097367be3a25/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/14c6e2edca7a3ad4c434b561a96c8d01/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b089355a59161f81487e7fd11202f529/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ec23f01b1f4672e9b7f15437baf794ee/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/68210b98f826cc1aca5232dfc8f0fb6a/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/5626da3aa9aca8c836fdba5400162f82/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/18cf87d1317679121d6c3a863feb6587/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c124fa409bc3f7430b92c29e2773e1e4/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/08c11b0fdd02a44ef9f67397307bbd97/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c057d509f870a1d9e62036cc10288c49/jetified-grpc-android-1.28.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/69ba766ebfa96e936295e271c3c65e5b/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [io.supercharge:shimmerlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/15cc938bb17b4c547cdb5573258b498b/jetified-shimmerlayout-2.1.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab8454f171f11437db1c364db5b215ee/jetified-dagger-lint-aar-2.34/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ceff8fbf3f8938fecbf33f3a6766af50/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ec849800bc7e796ecc7683360fe572e0/jetified-protolite-well-known-types-17.1.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:3:4-40:19
+MERGED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:18:5-65:19
+MERGED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:18:5-65:19
+MERGED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:9:5-14:19
+MERGED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:9:5-14:19
+MERGED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:11:5-15:19
+MERGED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:32:5-20
+MERGED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:32:5-20
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3b3725cc00ace2b5a9722d2155fceb97/jetified-egloo-0.6.1/AndroidManifest.xml:9:5-20
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3b3725cc00ace2b5a9722d2155fceb97/jetified-egloo-0.6.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:11:5-19:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/8a890d3878adbd72264013482df028e3/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/8a890d3878adbd72264013482df028e3/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/336ad9586513c84b79218d013962f945/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/336ad9586513c84b79218d013962f945/material-1.4.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6af88fb2306cad6182d3af73ac02620/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6af88fb2306cad6182d3af73ac02620/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:30:5-130:19
+MERGED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:30:5-130:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/793bfc5c036a1ef4fdaf52f9fc8dabd6/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/793bfc5c036a1ef4fdaf52f9fc8dabd6/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/228dfe74985cc69ec5d9fe1c51cfbac1/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/228dfe74985cc69ec5d9fe1c51cfbac1/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b422cca8b1121af766d14a357a3d99ff/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b422cca8b1121af766d14a357a3d99ff/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f596c52a6da0a9888adecd68576fc6ef/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f596c52a6da0a9888adecd68576fc6ef/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/96ae5604339cfec08d012924c093ea2c/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/96ae5604339cfec08d012924c093ea2c/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f4f67a78de15ce9516e92ad8c25a1f7c/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f4f67a78de15ce9516e92ad8c25a1f7c/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c7b2e20c8394e110ee3b17b883d90dc3/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c7b2e20c8394e110ee3b17b883d90dc3/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7ce69dd97ffa5f8bb59e097367be3a25/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7ce69dd97ffa5f8bb59e097367be3a25/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c124fa409bc3f7430b92c29e2773e1e4/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c124fa409bc3f7430b92c29e2773e1e4/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [io.supercharge:shimmerlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/15cc938bb17b4c547cdb5573258b498b/jetified-shimmerlayout-2.1.0/AndroidManifest.xml:12:5-20
+MERGED from [io.supercharge:shimmerlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/15cc938bb17b4c547cdb5573258b498b/jetified-shimmerlayout-2.1.0/AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ceff8fbf3f8938fecbf33f3a6766af50/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ceff8fbf3f8938fecbf33f3a6766af50/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:requestLegacyExternalStorage
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:18:18-61
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/96ae5604339cfec08d012924c093ea2c/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:4:9-42
+	android:icon
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:5:9-43
+activity#com.example.test_terra_plugin.MainActivity
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml
+MERGED from [:terra_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/terra_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:terra_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/terra_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:payment_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/payment_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:payment_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/payment_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:apollo_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/apollo_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:apollo_flutter] /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/build/apollo_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [vn.teko.apollo:terra-apollo:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/30fda862007c557869e08ad9f661b2cb/jetified-terra-apollo-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.apollo:terra-apollo:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/30fda862007c557869e08ad9f661b2cb/jetified-terra-apollo-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:6:5-8:41
+MERGED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:6:5-8:41
+MERGED from [vn.teko.android.payment:payment-manager-v2:2.1.0-alpha5] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/fea42a71033bca08db7e9b8705f8188a/jetified-payment-manager-v2-2.1.0-alpha5/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.payment:payment-manager-v2:2.1.0-alpha5] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/fea42a71033bca08db7e9b8705f8188a/jetified-payment-manager-v2-2.1.0-alpha5/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.loyalty:loyalty-tracking:1.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/34c6941a0ea11578b302d8c1a8b6af20/jetified-loyalty-tracking-1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.loyalty:loyalty-tracking:1.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/34c6941a0ea11578b302d8c1a8b6af20/jetified-loyalty-tracking-1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.tracker:tracker-manager:2.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c4b762885f118d3e43a2dd1faf8477c4/jetified-tracker-manager-2.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.tracker:tracker-manager:2.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c4b762885f118d3e43a2dd1faf8477c4/jetified-tracker-manager-2.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.terra:terra-js-bridge:1.1.2-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9ad09705596b45c464187914a9bc79ff/jetified-terra-js-bridge-1.1.2-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.terra:terra-js-bridge:1.1.2-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9ad09705596b45c464187914a9bc79ff/jetified-terra-js-bridge-1.1.2-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.payment:payment-core-v2:2.3.0-alpha.5-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/8f7d885e18b18362b3a894bdb2cd1ea7/jetified-payment-core-v2-2.3.0-alpha.5-SNAPSHOT/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.payment:payment-core-v2:2.3.0-alpha.5-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/8f7d885e18b18362b3a894bdb2cd1ea7/jetified-payment-core-v2-2.3.0-alpha.5-SNAPSHOT/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.payment:payment-cart-connector:0.0.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b9a6512af30ed181d19cda6aaf284c1/jetified-payment-cart-connector-0.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.payment:payment-cart-connector:0.0.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b9a6512af30ed181d19cda6aaf284c1/jetified-payment-cart-connector-0.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.terra:terra-core-android:1.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/728b6609b21a415aaeca92a4a02991a6/jetified-terra-core-android-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.terra:terra-core-android:1.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/728b6609b21a415aaeca92a4a02991a6/jetified-terra-core-android-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:ui:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/76bc24bd9ff3fe35f04b0dbfb11ab8d5/jetified-ui-1.1.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:ui:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/76bc24bd9ff3fe35f04b0dbfb11ab8d5/jetified-ui-1.1.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:framework:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/36e0ab67425f218150f35dbe1a0ac94f/jetified-framework-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:framework:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/36e0ab67425f218150f35dbe1a0ac94f/jetified-framework-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:logging:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b7ffcd82937aa06facc607d8d9b0a29c/jetified-logging-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:logging:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b7ffcd82937aa06facc607d8d9b0a29c/jetified-logging-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:data:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/36285d6ad7d6786463eafd98cda621af/jetified-data-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:data:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/36285d6ad7d6786463eafd98cda621af/jetified-data-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:skeleton:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/57a7f2cea0bcc9df6cb189a01d4f7cb1/jetified-skeleton-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:skeleton:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/57a7f2cea0bcc9df6cb189a01d4f7cb1/jetified-skeleton-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:util-android:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/241f4ddd3fd8c9ae0237c13b542c43ea/jetified-util-android-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:util-android:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/241f4ddd3fd8c9ae0237c13b542c43ea/jetified-util-android-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.tracker:tracker-core:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/12264c731edcb673b1ecc1a4d83bf489/jetified-tracker-core-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.tracker:tracker-core:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/12264c731edcb673b1ecc1a4d83bf489/jetified-tracker-core-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.terra:js-bridge-core:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/47a7a78c69f860b2306579152938f7f7/jetified-js-bridge-core-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.terra:js-bridge-core:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/47a7a78c69f860b2306579152938f7f7/jetified-js-bridge-core-1.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.tracker:tracker-event:2.5.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/11463c27ab2f623b5f3e7a1cd20f6f09/jetified-tracker-event-2.5.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.tracker:tracker-event:2.5.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/11463c27ab2f623b5f3e7a1cd20f6f09/jetified-tracker-event-2.5.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.tracker:tracker-util:2.1.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ff1c02cfeed3907d9b1ae742287d177c/jetified-tracker-util-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.tracker:tracker-util:2.1.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ff1c02cfeed3907d9b1ae742287d177c/jetified-tracker-util-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/20a61654279bb2d4d6e5545a62122fd6/databinding-adapters-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/20a61654279bb2d4d6e5545a62122fd6/databinding-adapters-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b69f46687867c9033810459684541808/jetified-databinding-ktx-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b69f46687867c9033810459684541808/jetified-databinding-ktx-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/40526d986a5a1fd860f02fd2ff021ab1/databinding-runtime-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/40526d986a5a1fd860f02fd2ff021ab1/databinding-runtime-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:6:5-9:60
+MERGED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:6:5-9:60
+MERGED from [vn.teko.android.core:qr-generator:0.0.1-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/759144de33aec2e65a08f5ce3b2f6163/jetified-qr-generator-0.0.1-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.core:qr-generator:0.0.1-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/759144de33aec2e65a08f5ce3b2f6163/jetified-qr-generator-0.0.1-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3b3725cc00ace2b5a9722d2155fceb97/jetified-egloo-0.6.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3b3725cc00ace2b5a9722d2155fceb97/jetified-egloo-0.6.1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.payment:observer-firebase-v2:1.11.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c6c3b87f26624afd68eba3745ac2ac95/jetified-observer-firebase-v2-1.11.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.android.payment:observer-firebase-v2:1.11.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c6c3b87f26624afd68eba3745ac2ac95/jetified-observer-firebase-v2-1.11.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/179c72c7632064bf1dcab6a8582cf4b4/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/179c72c7632064bf1dcab6a8582cf4b4/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime-ktx:3.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/60c67455645b970cc8a1101215151ac9/jetified-paging-runtime-ktx-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime-ktx:3.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/60c67455645b970cc8a1101215151ac9/jetified-paging-runtime-ktx-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0317e431ea712e2ec70d5fb6e22d8f2f/paging-runtime-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0317e431ea712e2ec70d5fb6e22d8f2f/paging-runtime-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7071737c663eb9e38425166b4678bb4d/navigation-fragment-ktx-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7071737c663eb9e38425166b4678bb4d/navigation-fragment-ktx-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6acade9834e82190306b3dfc7a75bc06/navigation-fragment-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6acade9834e82190306b3dfc7a75bc06/navigation-fragment-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3aeeaa4befb9e227f5c91192664a806b/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3aeeaa4befb9e227f5c91192664a806b/jetified-fragment-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/5ae1eaf2f618aca606c458a2f7891987/navigation-ui-ktx-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/5ae1eaf2f618aca606c458a2f7891987/navigation-ui-ktx-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab6b21459de7bbe34346503a7b2ad6bb/navigation-runtime-ktx-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab6b21459de7bbe34346503a7b2ad6bb/navigation-runtime-ktx-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dddbbbaa0bc3b462b850fb18cbf9177d/navigation-ui-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dddbbbaa0bc3b462b850fb18cbf9177d/navigation-ui-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/81f40219484ba87e7699202302d73844/navigation-runtime-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/81f40219484ba87e7699202302d73844/navigation-runtime-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3565cde6ae2ea58340e77f3512aa95c2/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3565cde6ae2ea58340e77f3512aa95c2/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/23c357fcd5dad5e98a23048ca5feda65/navigation-common-ktx-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/23c357fcd5dad5e98a23048ca5feda65/navigation-common-ktx-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/368494a2e8a44944b25203b838c24b7d/navigation-common-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/368494a2e8a44944b25203b838c24b7d/navigation-common-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7e5ffefa3332b92868b42e611bd7c400/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7e5ffefa3332b92868b42e611bd7c400/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ff129af5e64e68c03099fa9f2ba15810/work-runtime-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ff129af5e64e68c03099fa9f2ba15810/work-runtime-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/1fccfee8d360f87ccfb2c4b37bdebe85/slidingpanelayout-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/1fccfee8d360f87ccfb2c4b37bdebe85/slidingpanelayout-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98ed3e48763641fde69353223bdd0c3d/jetified-lifecycle-runtime-ktx-2.4.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98ed3e48763641fde69353223bdd0c3d/jetified-lifecycle-runtime-ktx-2.4.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/562159463fe85dfc02513377922e1edc/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/562159463fe85dfc02513377922e1edc/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [vn.teko.loyalty:loyalty-model:2.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3dab2c97ab7b3cee04733011a39f2bf9/jetified-loyalty-model-2.1.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [vn.teko.loyalty:loyalty-model:2.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3dab2c97ab7b3cee04733011a39f2bf9/jetified-loyalty-model-2.1.0-alpha1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/11784f367f7a7764e15d72eb4ce28559/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/11784f367f7a7764e15d72eb4ce28559/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/8a890d3878adbd72264013482df028e3/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/8a890d3878adbd72264013482df028e3/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-android-support:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e77becd350cb256888143fb618dadc9c/jetified-dagger-android-support-2.34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e77becd350cb256888143fb618dadc9c/jetified-dagger-android-support-2.34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/336ad9586513c84b79218d013962f945/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-beta01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/336ad9586513c84b79218d013962f945/material-1.4.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6af88fb2306cad6182d3af73ac02620/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6af88fb2306cad6182d3af73ac02620/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/74fc56783390f3dbc1511a18f674d4ec/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/74fc56783390f3dbc1511a18f674d4ec/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/af30c5e98f71a090484832c1640a1ba2/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/af30c5e98f71a090484832c1640a1ba2/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/793bfc5c036a1ef4fdaf52f9fc8dabd6/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/793bfc5c036a1ef4fdaf52f9fc8dabd6/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.mlkit:barcode-scanning:17.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b3f72dc2165ca8e164709b98022cb5a/jetified-barcode-scanning-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b3f72dc2165ca8e164709b98022cb5a/jetified-barcode-scanning-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/228dfe74985cc69ec5d9fe1c51cfbac1/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/228dfe74985cc69ec5d9fe1c51cfbac1/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f629f685fdb8d403924f0c3e1e76e7f8/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f629f685fdb8d403924f0c3e1e76e7f8/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b422cca8b1121af766d14a357a3d99ff/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b422cca8b1121af766d14a357a3d99ff/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f596c52a6da0a9888adecd68576fc6ef/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f596c52a6da0a9888adecd68576fc6ef/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/565739743116e827922e9a9ea327344d/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/565739743116e827922e9a9ea327344d/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/369ba8a20c1bf9b09bd11d0925d47f1e/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/369ba8a20c1bf9b09bd11d0925d47f1e/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/d280707bcfa67447378be5a5b195c93c/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/d280707bcfa67447378be5a5b195c93c/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/68b974ed4e60fcf8b9907ae8d420cac8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/68b974ed4e60fcf8b9907ae8d420cac8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/159f8cac255183af77b0b1ce720ad0c0/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/159f8cac255183af77b0b1ce720ad0c0/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/266ea54e60e04b941ef10777fdadab2a/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/266ea54e60e04b941ef10777fdadab2a/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/23750d2e642805fc27bd0aa75596834d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/23750d2e642805fc27bd0aa75596834d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/4e15ce71f4321a6d1c82718704239b04/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/4e15ce71f4321a6d1c82718704239b04/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2729cb916a2ec62606f2149842aba85f/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2729cb916a2ec62606f2149842aba85f/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab53ce1fa738e9935a6b32548f651ceb/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab53ce1fa738e9935a6b32548f651ceb/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0bb92d8a2a55d0291f22f86d1bc72398/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0bb92d8a2a55d0291f22f86d1bc72398/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/07fa920881439b46e1537c644300b944/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/07fa920881439b46e1537c644300b944/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/53dee3e0a9589e838f0d4a3d85b83014/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/53dee3e0a9589e838f0d4a3d85b83014/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bd5764f4c331824c99e9d79fb8747f5a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bd5764f4c331824c99e9d79fb8747f5a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/828dbafd34712c0e71bcbc89a7683277/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/828dbafd34712c0e71bcbc89a7683277/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6fee33b019fd543036cb7f55afb9cbd2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6fee33b019fd543036cb7f55afb9cbd2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9d776cda746dabed879e30c47be1432f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9d776cda746dabed879e30c47be1432f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/96ae5604339cfec08d012924c093ea2c/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/96ae5604339cfec08d012924c093ea2c/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/534ffbe0bb2e6f615131a9748a22cbba/lifecycle-runtime-2.4.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/534ffbe0bb2e6f615131a9748a22cbba/lifecycle-runtime-2.4.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f4f67a78de15ce9516e92ad8c25a1f7c/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f4f67a78de15ce9516e92ad8c25a1f7c/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/569fec21e685ebc91747b776aa7601ed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/569fec21e685ebc91747b776aa7601ed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dad7b21701d91de02d3df1a9b11a9045/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dad7b21701d91de02d3df1a9b11a9045/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bf2b7c7c43ec98c2717c509e4524d0dc/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bf2b7c7c43ec98c2717c509e4524d0dc/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/abecc9bf5a4a9c5bf0d1b8b1ae7edec4/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/abecc9bf5a4a9c5bf0d1b8b1ae7edec4/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e155210c569af8a7aa940ea35732e173/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e155210c569af8a7aa940ea35732e173/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b29311546ecf9b70de8fb5b83883c53/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7b29311546ecf9b70de8fb5b83883c53/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7f7bfa1681a7d485f238595580489d47/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7f7bfa1681a7d485f238595580489d47/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/1230dfb7110d82b2b03b4f3f5bcd5dd8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/1230dfb7110d82b2b03b4f3f5bcd5dd8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/93eba9e66c33cd1f0071ac049e3ea78d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/93eba9e66c33cd1f0071ac049e3ea78d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6553366540cc3e4e860e4be139c362cb/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/6553366540cc3e4e860e4be139c362cb/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a8a922a30e1ef13071307b238d97bc08/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a8a922a30e1ef13071307b238d97bc08/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c7b2e20c8394e110ee3b17b883d90dc3/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c7b2e20c8394e110ee3b17b883d90dc3/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0746b32752d8ed008d745ae5e4ee6bf8/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0746b32752d8ed008d745ae5e4ee6bf8/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-android:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/fac9dcc0e154bddb80f622a1699a8b61/jetified-dagger-android-2.34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/fac9dcc0e154bddb80f622a1699a8b61/jetified-dagger-android-2.34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/49453516ac3063b58b9054b4c7abd4fe/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/49453516ac3063b58b9054b4c7abd4fe/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/d8ce6ec113e0c44b743a789507e371a1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/d8ce6ec113e0c44b743a789507e371a1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dc54f72fde1c98da2bc7dac1e99b4a42/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/dc54f72fde1c98da2bc7dac1e99b4a42/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7ce69dd97ffa5f8bb59e097367be3a25/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7ce69dd97ffa5f8bb59e097367be3a25/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/14c6e2edca7a3ad4c434b561a96c8d01/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/14c6e2edca7a3ad4c434b561a96c8d01/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b089355a59161f81487e7fd11202f529/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b089355a59161f81487e7fd11202f529/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ec23f01b1f4672e9b7f15437baf794ee/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ec23f01b1f4672e9b7f15437baf794ee/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/68210b98f826cc1aca5232dfc8f0fb6a/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/68210b98f826cc1aca5232dfc8f0fb6a/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/5626da3aa9aca8c836fdba5400162f82/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/5626da3aa9aca8c836fdba5400162f82/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/18cf87d1317679121d6c3a863feb6587/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/18cf87d1317679121d6c3a863feb6587/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c124fa409bc3f7430b92c29e2773e1e4/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c124fa409bc3f7430b92c29e2773e1e4/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/08c11b0fdd02a44ef9f67397307bbd97/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/08c11b0fdd02a44ef9f67397307bbd97/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c057d509f870a1d9e62036cc10288c49/jetified-grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c057d509f870a1d9e62036cc10288c49/jetified-grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/69ba766ebfa96e936295e271c3c65e5b/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/69ba766ebfa96e936295e271c3c65e5b/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [io.supercharge:shimmerlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/15cc938bb17b4c547cdb5573258b498b/jetified-shimmerlayout-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [io.supercharge:shimmerlayout:2.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/15cc938bb17b4c547cdb5573258b498b/jetified-shimmerlayout-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab8454f171f11437db1c364db5b215ee/jetified-dagger-lint-aar-2.34/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.34] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ab8454f171f11437db1c364db5b215ee/jetified-dagger-lint-aar-2.34/AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ceff8fbf3f8938fecbf33f3a6766af50/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ceff8fbf3f8938fecbf33f3a6766af50/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ec849800bc7e796ecc7683360fe572e0/jetified-protolite-well-known-types-17.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/ec849800bc7e796ecc7683360fe572e0/jetified-protolite-well-known-types-17.1.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:9:9-57
+	android:targetSdkVersion
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:9:5-67
+MERGED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:9:5-67
+MERGED from [vn.teko.android.core:util-android:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/241f4ddd3fd8c9ae0237c13b542c43ea/jetified-util-android-1.0.0/AndroidManifest.xml:9:5-67
+MERGED from [vn.teko.android.core:util-android:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/241f4ddd3fd8c9ae0237c13b542c43ea/jetified-util-android-1.0.0/AndroidManifest.xml:9:5-67
+MERGED from [vn.teko.android.tracker:tracker-core:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/12264c731edcb673b1ecc1a4d83bf489/jetified-tracker-core-2.6.0/AndroidManifest.xml:10:5-67
+MERGED from [vn.teko.android.tracker:tracker-core:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/12264c731edcb673b1ecc1a4d83bf489/jetified-tracker-core-2.6.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/caotrung/Documents/Teko/Flutter/test_terra_plugin/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.camera.flash
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:10:19-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:12:5-79
+MERGED from [vn.teko.android.core:util-android:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/241f4ddd3fd8c9ae0237c13b542c43ea/jetified-util-android-1.0.0/AndroidManifest.xml:10:5-79
+MERGED from [vn.teko.android.core:util-android:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/241f4ddd3fd8c9ae0237c13b542c43ea/jetified-util-android-1.0.0/AndroidManifest.xml:10:5-79
+MERGED from [vn.teko.android.tracker:tracker-core:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/12264c731edcb673b1ecc1a4d83bf489/jetified-tracker-core-2.6.0/AndroidManifest.xml:9:5-79
+MERGED from [vn.teko.android.tracker:tracker-core:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/12264c731edcb673b1ecc1a4d83bf489/jetified-tracker-core-2.6.0/AndroidManifest.xml:9:5-79
+MERGED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c057d509f870a1d9e62036cc10288c49/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/c057d509f870a1d9e62036cc10288c49/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:14:5-16:53
+	tools:ignore
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:16:9-50
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:15:9-61
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:19:9-21:46
+	android:value
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:21:13-43
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:20:13-64
+activity#vn.teko.android.payment.ui.PaymentActivity
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:23:9-42:20
+	android:launchMode
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:27:13-44
+	android:exported
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:26:13-36
+	android:configChanges
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:25:13-59
+	android:theme
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:24:13-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:payment.teko.vn+data:host:payment.teko.vn+data:scheme:http+data:scheme:https
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:29:13-41:29
+action#android.intent.action.VIEW
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:32:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:33:27-75
+data
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:35:17-37:45
+	android:host
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:36:21-51
+	android:scheme
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:37:21-42
+activity#vn.teko.android.payment.ui.TransactionProcessingActivity
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:43:9-61:20
+	android:launchMode
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:46:13-44
+	android:exported
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:47:13-48
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:44:13-84
+activity#vn.teko.android.payment.ui.ui.detail.sposinstallment.VNPaySPosInstallmentConnectorActivity
+ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:62:9-64:73
+	android:theme
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:64:13-70
+	android:name
+		ADDED from [vn.teko.android.payment:payment-ui:2.0.0-alpha.2-SNAPSHOT] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9b2db885e9ad06af9465f9baa9350a21/jetified-payment-ui-2.0.0-alpha.2-SNAPSHOT/AndroidManifest.xml:63:13-118
+activity#vn.teko.loyalty.component.ui.staff.redeempoint.screen.LoyaltyCustomerQrScanActivity
+ADDED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:10:9-13:60
+	android:screenOrientation
+		ADDED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:12:13-49
+	android:theme
+		ADDED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:13:13-57
+	android:name
+		ADDED from [vn.teko.loyalty:loyalty-component:1.1.0-alpha1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7305ada769b03dfe0f9ea5356310ce4d/jetified-loyalty-component-1.1.0-alpha1/AndroidManifest.xml:11:13-111
+meta-data#preloaded_fonts
+ADDED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:12:9-14:64
+	android:resource
+		ADDED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:14:13-61
+	android:name
+		ADDED from [vn.teko.apollo:apollo:2.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e8ff5005a27b58d4337a659208b8159e/jetified-apollo-2.6.0/AndroidManifest.xml:13:13-43
+uses-permission#android.permission.CAMERA
+ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:20:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:23:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:26:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.7.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/b6a6549fc7965b4defc60f8f2d0a6f41/jetified-cameraview-2.7.1/AndroidManifest.xml:29:9-51
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-rc01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/44249845dc82c769f4fcd07bebb870ba/jetified-window-1.0.0-rc01/AndroidManifest.xml:29:13-51
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:14:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:13:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/636a8ea0ee4aee27f4290ce9b25356d8/jetified-firebase-firestore-ktx-22.0.0/AndroidManifest.xml:16:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/734b1148aed69ae8846c8bd7f114d3dc/jetified-firebase-common-ktx-19.3.1/AndroidManifest.xml:16:17-113
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:28:22-74
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:114:13-118:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:115:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/9fb4f7728ce9c14cfcf90f4a19e5adc7/work-runtime-2.3.4/AndroidManifest.xml:127:25-95
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/aec50eea310df072817f5a8691cf50c2/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2ef574eee7c82c77efb5c1ccdbec826a/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/3414f75988a3d12985588a96411ecddf/jetified-common-17.3.0/AndroidManifest.xml:21:17-120
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/98f82528277e73a3ed2c282b6a7668f4/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7471c4b2cade660ea0d0345130626992/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/bef79cc0391e9b1932a54cd90325b9f8/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f596c52a6da0a9888adecd68576fc6ef/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f596c52a6da0a9888adecd68576fc6ef/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/f596c52a6da0a9888adecd68576fc6ef/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7ce69dd97ffa5f8bb59e097367be3a25/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/7ce69dd97ffa5f8bb59e097367be3a25/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:27:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha01] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/2391f74d36f27ec381ded60ccaea52d8/jetified-lifecycle-process-2.4.0-alpha01/AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/0a7269bf894b38dc74d5bf20883ab906/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/e3bf763877744b64bee7aa4ab4f90830/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/caotrung/.gradle/caches/transforms-2/files-2.1/a2b8181e46be72a9e5d9b80682337977/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132

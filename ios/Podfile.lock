@@ -1,0 +1,498 @@
+PODS:
+  - abseil/algorithm (0.20200225.0):
+    - abseil/algorithm/algorithm (= 0.20200225.0)
+    - abseil/algorithm/container (= 0.20200225.0)
+  - abseil/algorithm/algorithm (0.20200225.0):
+    - abseil/base/config
+  - abseil/algorithm/container (0.20200225.0):
+    - abseil/algorithm/algorithm
+    - abseil/base/core_headers
+    - abseil/meta/type_traits
+  - abseil/base (0.20200225.0):
+    - abseil/base/atomic_hook (= 0.20200225.0)
+    - abseil/base/base (= 0.20200225.0)
+    - abseil/base/base_internal (= 0.20200225.0)
+    - abseil/base/bits (= 0.20200225.0)
+    - abseil/base/config (= 0.20200225.0)
+    - abseil/base/core_headers (= 0.20200225.0)
+    - abseil/base/dynamic_annotations (= 0.20200225.0)
+    - abseil/base/endian (= 0.20200225.0)
+    - abseil/base/errno_saver (= 0.20200225.0)
+    - abseil/base/exponential_biased (= 0.20200225.0)
+    - abseil/base/log_severity (= 0.20200225.0)
+    - abseil/base/malloc_internal (= 0.20200225.0)
+    - abseil/base/periodic_sampler (= 0.20200225.0)
+    - abseil/base/pretty_function (= 0.20200225.0)
+    - abseil/base/raw_logging_internal (= 0.20200225.0)
+    - abseil/base/spinlock_wait (= 0.20200225.0)
+    - abseil/base/throw_delegate (= 0.20200225.0)
+  - abseil/base/atomic_hook (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+  - abseil/base/base (0.20200225.0):
+    - abseil/base/atomic_hook
+    - abseil/base/base_internal
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/base/dynamic_annotations
+    - abseil/base/log_severity
+    - abseil/base/raw_logging_internal
+    - abseil/base/spinlock_wait
+    - abseil/meta/type_traits
+  - abseil/base/base_internal (0.20200225.0):
+    - abseil/base/config
+    - abseil/meta/type_traits
+  - abseil/base/bits (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+  - abseil/base/config (0.20200225.0)
+  - abseil/base/core_headers (0.20200225.0):
+    - abseil/base/config
+  - abseil/base/dynamic_annotations (0.20200225.0)
+  - abseil/base/endian (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+  - abseil/base/errno_saver (0.20200225.0):
+    - abseil/base/config
+  - abseil/base/exponential_biased (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+  - abseil/base/log_severity (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+  - abseil/base/malloc_internal (0.20200225.0):
+    - abseil/base/base
+    - abseil/base/base_internal
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/base/dynamic_annotations
+    - abseil/base/raw_logging_internal
+  - abseil/base/periodic_sampler (0.20200225.0):
+    - abseil/base/core_headers
+    - abseil/base/exponential_biased
+  - abseil/base/pretty_function (0.20200225.0)
+  - abseil/base/raw_logging_internal (0.20200225.0):
+    - abseil/base/atomic_hook
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/base/log_severity
+  - abseil/base/spinlock_wait (0.20200225.0):
+    - abseil/base/base_internal
+    - abseil/base/core_headers
+    - abseil/base/errno_saver
+  - abseil/base/throw_delegate (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/raw_logging_internal
+  - abseil/container/compressed_tuple (0.20200225.0):
+    - abseil/utility/utility
+  - abseil/container/inlined_vector (0.20200225.0):
+    - abseil/algorithm/algorithm
+    - abseil/base/core_headers
+    - abseil/base/throw_delegate
+    - abseil/container/inlined_vector_internal
+    - abseil/memory/memory
+  - abseil/container/inlined_vector_internal (0.20200225.0):
+    - abseil/base/core_headers
+    - abseil/container/compressed_tuple
+    - abseil/memory/memory
+    - abseil/meta/type_traits
+    - abseil/types/span
+  - abseil/memory (0.20200225.0):
+    - abseil/memory/memory (= 0.20200225.0)
+  - abseil/memory/memory (0.20200225.0):
+    - abseil/base/core_headers
+    - abseil/meta/type_traits
+  - abseil/meta (0.20200225.0):
+    - abseil/meta/type_traits (= 0.20200225.0)
+  - abseil/meta/type_traits (0.20200225.0):
+    - abseil/base/config
+  - abseil/numeric/int128 (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+  - abseil/strings/internal (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/base/endian
+    - abseil/base/raw_logging_internal
+    - abseil/meta/type_traits
+  - abseil/strings/str_format (0.20200225.0):
+    - abseil/strings/str_format_internal
+  - abseil/strings/str_format_internal (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/meta/type_traits
+    - abseil/numeric/int128
+    - abseil/strings/strings
+    - abseil/types/span
+  - abseil/strings/strings (0.20200225.0):
+    - abseil/base/base
+    - abseil/base/bits
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/base/endian
+    - abseil/base/raw_logging_internal
+    - abseil/base/throw_delegate
+    - abseil/memory/memory
+    - abseil/meta/type_traits
+    - abseil/numeric/int128
+    - abseil/strings/internal
+  - abseil/time (0.20200225.0):
+    - abseil/time/internal (= 0.20200225.0)
+    - abseil/time/time (= 0.20200225.0)
+  - abseil/time/internal (0.20200225.0):
+    - abseil/time/internal/cctz (= 0.20200225.0)
+  - abseil/time/internal/cctz (0.20200225.0):
+    - abseil/time/internal/cctz/civil_time (= 0.20200225.0)
+    - abseil/time/internal/cctz/time_zone (= 0.20200225.0)
+  - abseil/time/internal/cctz/civil_time (0.20200225.0):
+    - abseil/base/config
+  - abseil/time/internal/cctz/time_zone (0.20200225.0):
+    - abseil/base/config
+    - abseil/time/internal/cctz/civil_time
+  - abseil/time/time (0.20200225.0):
+    - abseil/base/base
+    - abseil/base/core_headers
+    - abseil/base/raw_logging_internal
+    - abseil/numeric/int128
+    - abseil/strings/strings
+    - abseil/time/internal/cctz/civil_time
+    - abseil/time/internal/cctz/time_zone
+  - abseil/types (0.20200225.0):
+    - abseil/types/any (= 0.20200225.0)
+    - abseil/types/bad_any_cast (= 0.20200225.0)
+    - abseil/types/bad_any_cast_impl (= 0.20200225.0)
+    - abseil/types/bad_optional_access (= 0.20200225.0)
+    - abseil/types/bad_variant_access (= 0.20200225.0)
+    - abseil/types/compare (= 0.20200225.0)
+    - abseil/types/optional (= 0.20200225.0)
+    - abseil/types/span (= 0.20200225.0)
+    - abseil/types/variant (= 0.20200225.0)
+  - abseil/types/any (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/meta/type_traits
+    - abseil/types/bad_any_cast
+    - abseil/utility/utility
+  - abseil/types/bad_any_cast (0.20200225.0):
+    - abseil/base/config
+    - abseil/types/bad_any_cast_impl
+  - abseil/types/bad_any_cast_impl (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/raw_logging_internal
+  - abseil/types/bad_optional_access (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/raw_logging_internal
+  - abseil/types/bad_variant_access (0.20200225.0):
+    - abseil/base/config
+    - abseil/base/raw_logging_internal
+  - abseil/types/compare (0.20200225.0):
+    - abseil/base/core_headers
+    - abseil/meta/type_traits
+  - abseil/types/optional (0.20200225.0):
+    - abseil/base/base_internal
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/memory/memory
+    - abseil/meta/type_traits
+    - abseil/types/bad_optional_access
+    - abseil/utility/utility
+  - abseil/types/span (0.20200225.0):
+    - abseil/algorithm/algorithm
+    - abseil/base/core_headers
+    - abseil/base/throw_delegate
+    - abseil/meta/type_traits
+  - abseil/types/variant (0.20200225.0):
+    - abseil/base/base_internal
+    - abseil/base/config
+    - abseil/base/core_headers
+    - abseil/meta/type_traits
+    - abseil/types/bad_variant_access
+    - abseil/utility/utility
+  - abseil/utility/utility (0.20200225.0):
+    - abseil/base/base_internal
+    - abseil/base/config
+    - abseil/meta/type_traits
+  - Alamofire (5.3.0)
+  - Apollo (2.1.1):
+    - FittedSheets (~> 1.4.6)
+    - Nuke (~> 8.0)
+    - SVProgressHUD (~> 2.2)
+  - apollo_flutter (0.0.1):
+    - ApolloTheme (~> 1.0)
+    - Flutter
+    - Terra (~> 3.1)
+  - ApolloTheme (1.0.1):
+    - Logging
+    - TerraInstancesManager (~> 2.0)
+  - BerTlv (0.2.5)
+  - BoringSSL-GRPC (0.0.7):
+    - BoringSSL-GRPC/Implementation (= 0.0.7)
+    - BoringSSL-GRPC/Interface (= 0.0.7)
+  - BoringSSL-GRPC/Implementation (0.0.7):
+    - BoringSSL-GRPC/Interface (= 0.0.7)
+  - BoringSSL-GRPC/Interface (0.0.7)
+  - Codextended (0.3.0)
+  - CryptoSwift (1.3.8)
+  - DeviceKit (4.6.0)
+  - FirebaseCore (8.15.0):
+    - FirebaseCoreDiagnostics (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/Logger (~> 7.7)
+  - FirebaseCoreDiagnostics (8.15.0):
+    - GoogleDataTransport (~> 9.1)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/Logger (~> 7.7)
+    - nanopb (~> 2.30908.0)
+  - FirebaseFirestore (8.1.0):
+    - abseil/algorithm (= 0.20200225.0)
+    - abseil/base (= 0.20200225.0)
+    - abseil/memory (= 0.20200225.0)
+    - abseil/meta (= 0.20200225.0)
+    - abseil/strings/strings (= 0.20200225.0)
+    - abseil/time (= 0.20200225.0)
+    - abseil/types (= 0.20200225.0)
+    - FirebaseCore (~> 8.0)
+    - "gRPC-C++ (~> 1.28.0)"
+    - leveldb-library (~> 1.22)
+    - nanopb (~> 2.30908.0)
+  - FittedSheets (1.4.6)
+  - Flutter (1.0.0)
+  - GoogleDataTransport (9.1.4):
+    - GoogleUtilities/Environment (~> 7.7)
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Environment (7.7.0):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.7.0):
+    - GoogleUtilities/Environment
+  - "gRPC-C++ (1.28.2)":
+    - "gRPC-C++/Implementation (= 1.28.2)"
+    - "gRPC-C++/Interface (= 1.28.2)"
+  - "gRPC-C++/Implementation (1.28.2)":
+    - abseil/container/inlined_vector (= 0.20200225.0)
+    - abseil/memory/memory (= 0.20200225.0)
+    - abseil/strings/str_format (= 0.20200225.0)
+    - abseil/strings/strings (= 0.20200225.0)
+    - abseil/types/optional (= 0.20200225.0)
+    - "gRPC-C++/Interface (= 1.28.2)"
+    - gRPC-Core (= 1.28.2)
+  - "gRPC-C++/Interface (1.28.2)"
+  - gRPC-Core (1.28.2):
+    - gRPC-Core/Implementation (= 1.28.2)
+    - gRPC-Core/Interface (= 1.28.2)
+  - gRPC-Core/Implementation (1.28.2):
+    - abseil/container/inlined_vector (= 0.20200225.0)
+    - abseil/memory/memory (= 0.20200225.0)
+    - abseil/strings/str_format (= 0.20200225.0)
+    - abseil/strings/strings (= 0.20200225.0)
+    - abseil/types/optional (= 0.20200225.0)
+    - BoringSSL-GRPC (= 0.0.7)
+    - gRPC-Core/Interface (= 1.28.2)
+  - gRPC-Core/Interface (1.28.2)
+  - Hermes (1.4.0):
+    - Logging
+  - leveldb-library (1.22.1)
+  - Logging (1.4.0)
+  - LoyaltyComponent (1.4.2):
+    - Apollo (~> 2.0)
+    - ApolloTheme (~> 1.0)
+    - FittedSheets (~> 1.4.6)
+    - LoyaltyModel (~> 1.3)
+    - SkeletonView (~> 1.21.2)
+    - TekBarcodeReader (~> 0.1)
+    - TerraInstancesManager (~> 2.1)
+  - LoyaltyModel (1.3.0)
+  - Minerva (4.0.1):
+    - BerTlv
+    - FirebaseFirestore (~> 8.1.0)
+    - Logging
+    - SwiftyJSON (~> 4.0)
+    - TekoTracker (~> 1.0)
+    - TerraInstancesManager (~> 2.1)
+  - MinervaUI (4.0.1):
+    - Apollo (~> 2.0)
+    - ApolloTheme (~> 1.0)
+    - FittedSheets (~> 1.4.6)
+    - LoyaltyComponent (~> 1.4)
+    - Minerva (~> 4.0)
+    - SkeletonView (~> 1.21.2)
+    - SnapKit (~> 5.0.1)
+    - TekoTracker (~> 1.0)
+    - Terra (~> 3.0)
+    - TerraUtilities (~> 0.0.1)
+    - VnpayWalletSDK (~> 1.0.13)
+  - nanopb (2.30908.0):
+    - nanopb/decode (= 2.30908.0)
+    - nanopb/encode (= 2.30908.0)
+  - nanopb/decode (2.30908.0)
+  - nanopb/encode (2.30908.0)
+  - Nuke (8.4.1)
+  - payment_flutter (0.0.1):
+    - Flutter
+    - MinervaUI (~> 4.0)
+    - Terra (~> 3.1)
+  - PromisesObjC (2.1.0)
+  - ReachabilitySwift (5.0.0)
+  - RxSwift (5.1.3)
+  - SkeletonView (1.21.2)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftFootprint (1.5.0):
+    - TekoSwiftGRPC (~> 0.11.2)
+  - SwiftProtobuf (1.7.0)
+  - SwiftyJSON (4.3.0)
+  - TekBarcodeReader (0.1.0)
+  - TekCoreNetwork (2.0.0):
+    - Alamofire (~> 5.3.0)
+  - TekCoreService (2.1.0):
+    - TekCoreNetwork (~> 2.0)
+  - TekoSwiftGRPC (0.11.2):
+    - gRPC-Core (~> 1.28.0)
+    - SwiftProtobuf (~> 1.7.0)
+  - TekoTracker (1.6.1):
+    - Alamofire (~> 5.3.0)
+    - DeviceKit
+    - ReachabilitySwift
+    - RxSwift (~> 5.0)
+    - SwiftFootprint (~> 1.5)
+    - TerraInstancesManager (~> 2.1)
+  - Terra (3.1.1):
+    - Codextended
+    - CryptoSwift (~> 1.3.2)
+    - Logging
+    - TekCoreService (~> 2.0)
+    - TerraInstancesManager (~> 2.0)
+  - terra_flutter (0.0.1):
+    - Flutter
+    - Terra (~> 3.1)
+  - TerraInstancesManager (2.1.0):
+    - Hermes (~> 1.1)
+    - TekCoreService (~> 2.1)
+  - TerraUtilities (0.0.2)
+  - VNPayCore (1.0.0)
+  - VNPAYKitLib (1.0.0)
+  - VnpayWalletSDK (1.0.16):
+    - VNPayCore
+    - VNPAYKitLib
+
+DEPENDENCIES:
+  - apollo_flutter (from `.symlinks/plugins/apollo_flutter/ios`)
+  - Flutter (from `Flutter`)
+  - payment_flutter (from `.symlinks/plugins/payment_flutter/ios`)
+  - terra_flutter (from `.symlinks/plugins/terra_flutter/ios`)
+
+SPEC REPOS:
+  "https://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@github.com/teko-vn/Specs-ios.git":
+    - Apollo
+    - ApolloTheme
+    - Hermes
+    - LoyaltyComponent
+    - LoyaltyModel
+    - Minerva
+    - MinervaUI
+    - SwiftFootprint
+    - TekBarcodeReader
+    - TekCoreNetwork
+    - TekCoreService
+    - TekoSwiftGRPC
+    - TekoTracker
+    - Terra
+    - TerraInstancesManager
+    - TerraUtilities
+    - VNPayCore
+    - VNPAYKitLib
+    - VnpayWalletSDK
+  https://github.com/CocoaPods/Specs.git:
+    - abseil
+    - Alamofire
+    - BerTlv
+    - BoringSSL-GRPC
+    - Codextended
+    - CryptoSwift
+    - DeviceKit
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseFirestore
+    - FittedSheets
+    - GoogleDataTransport
+    - GoogleUtilities
+    - "gRPC-C++"
+    - gRPC-Core
+    - leveldb-library
+    - Logging
+    - nanopb
+    - Nuke
+    - PromisesObjC
+    - ReachabilitySwift
+    - RxSwift
+    - SkeletonView
+    - SnapKit
+    - SVProgressHUD
+    - SwiftProtobuf
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  apollo_flutter:
+    :path: ".symlinks/plugins/apollo_flutter/ios"
+  Flutter:
+    :path: Flutter
+  payment_flutter:
+    :path: ".symlinks/plugins/payment_flutter/ios"
+  terra_flutter:
+    :path: ".symlinks/plugins/terra_flutter/ios"
+
+SPEC CHECKSUMS:
+  abseil: 6c8eb7892aefa08d929b39f9bb108e5367e3228f
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  Apollo: f6ec811d88770fe2ec77d1b98e188272cee64ada
+  apollo_flutter: b6395bfee4400f46851536c98e50480c32e7a288
+  ApolloTheme: 4bbbb721b1382a15c6f913af40ec4e6566463c6e
+  BerTlv: c94b89a7b93bf8c1881691a8d105ec87a4a10759
+  BoringSSL-GRPC: 8edf627ee524575e2f8d19d56f068b448eea3879
+  Codextended: f384271b8694376ad766ddbf2a011efbfdcee905
+  CryptoSwift: 01b0f0cba1d5c212e5a335ff6c054fb75a204f00
+  DeviceKit: 834dd8aa1be53cd85364d8f49aa5d98bfac397c4
+  FirebaseCore: 5743c5785c074a794d35f2fff7ecc254a91e08b1
+  FirebaseCoreDiagnostics: 92e07a649aeb66352b319d43bdd2ee3942af84cb
+  FirebaseFirestore: c4be8314e9fa156f44b54025f7a98ecbff6971a6
+  FittedSheets: 7f37fee2567d15dcde391f31eccbffb660ddebf0
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  GoogleDataTransport: 5fffe35792f8b96ec8d6775f5eccd83c998d5a3b
+  GoogleUtilities: e0913149f6b0625b553d70dae12b49fc62914fd1
+  "gRPC-C++": 13d8ccef97d5c3c441b7e3c529ef28ebee86fad2
+  gRPC-Core: 4afa11bfbedf7cdecd04de535a9e046893404ed5
+  Hermes: a7ea1237a4c09c904d204fc1259315093c95172f
+  leveldb-library: 50c7b45cbd7bf543c81a468fe557a16ae3db8729
+  Logging: beeb016c9c80cf77042d62e83495816847ef108b
+  LoyaltyComponent: 92138fa7ef13716c6b65036a5e19435cb60b6657
+  LoyaltyModel: 815d683110cfd988399fb1016ca8cadcc39c1ed4
+  Minerva: ca3d76c80a9c9a66faa6b46424c76ab62af83837
+  MinervaUI: cf2a161dbd6c0a3fb57bd85fd13b7dc6ffdd23a8
+  nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
+  Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
+  payment_flutter: 1ad05536e6f768d7f6a5fc2585312b25056315f8
+  PromisesObjC: 99b6f43f9e1044bd87a95a60beff28c2c44ddb72
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  RxSwift: 915abbdfb62214aa89ccd0b194d44fb478019b27
+  SkeletonView: a085533443fed0198309f1979780afb6e80eaedd
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftFootprint: f9893f9efc11c0fabf7cee402046afbabedcf59c
+  SwiftProtobuf: 4fd9645e69b72cbae6ec8da5be0cdd20ca6565dd
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  TekBarcodeReader: e213d9c8a902b6cf8444f9c53cc00f7789aae77b
+  TekCoreNetwork: 7f7df7fad162f11701c48bdb9e4f3e2c179d350d
+  TekCoreService: 534aef52b5c05b7b026e3432415e517208b0b96f
+  TekoSwiftGRPC: 0e07633a7a1f1a8e071ca8934391a3fd425bf1a7
+  TekoTracker: 074deb15ade7881a471923d51087b31630ad68c9
+  Terra: 94af21b43bc77f344d9c6301d0786fdc4e6bc773
+  terra_flutter: 5c7b082f0b17b7c6e5adcbdde4d7966b4f7c0501
+  TerraInstancesManager: 0deeff848acbf2f14c9b2f869275ca7e8a4097cc
+  TerraUtilities: 495c4b00f05fc3b41a30756f1a91e0a1cbe707e2
+  VNPayCore: a10fd10ea772a210867d820a0708ac95b1ce2516
+  VNPAYKitLib: 606b4dec63afc924aefa7630d66ca0387a018fec
+  VnpayWalletSDK: 8b71a62d93f5e9b9a3efc6a5d1a2c873520095e5
+
+PODFILE CHECKSUM: 240cb13e12d4d153b559c346031ac0374d0044bc
+
+COCOAPODS: 1.11.2
