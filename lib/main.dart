@@ -131,6 +131,9 @@ class _MyHomePageState extends State<MyHomePage> {
 
             Text(terraApp),
             Text(vnpayResult),
+            ElevatedButton(
+                onPressed: _openVNPAYEwallet,
+                child: const Text("Open VNPAY Ewallet")),
           ],
         ),
       ),
