@@ -52,7 +52,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
   String apolloTheme = "";
   String terraApp = "";
   String vnpayResult = "";
@@ -132,10 +131,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
             Text(terraApp),
             Text(vnpayResult),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.headline4,
-            ),
           ],
         ),
       ),
